@@ -1,9 +1,11 @@
-# Amazon Sales Analysis Project
+<img width="1718" height="1446" alt="image" src="https://github.com/user-attachments/assets/4150b3ad-32b7-4cc1-97c6-64a426c3bf5a" /># Amazon Sales Analysis Project
 
 ![Amazon Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1200px-Amazon_logo.svg.png)
 
 ## Project Summary:
 This project focuses on solving 22 advanced business problems related to Amazon sales optimization. By leveraging SQL queries, we aim to uncover valuable insights that can enhance sales performance, improve inventory management, and optimize overall business operations.
+<img width="859" height="723" alt="Amazon_ERD" src="https://github.com/user-attachments/assets/d6b58ece-c99c-4e9f-bfaa-c8c11793ca7e" />
+
 
 ## Goal of the Project:
 To develop SQL queries that address various business challenges, providing actionable insights to optimize Amazon sales and operations.
