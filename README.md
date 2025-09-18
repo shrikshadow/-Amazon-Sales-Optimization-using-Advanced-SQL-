@@ -1,4 +1,4 @@
-<img width="1718" height="1446" alt="image" src="https://github.com/user-attachments/assets/4150b3ad-32b7-4cc1-97c6-64a426c3bf5a" /># Amazon Sales Analysis Project
+
 
 ![Amazon Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1200px-Amazon_logo.svg.png)
 
